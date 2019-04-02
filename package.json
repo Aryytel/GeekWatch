@@ -1,0 +1,14 @@
+{
+  "name": "GeekWatch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "description": "Kasutajaliidesed",
+  "author": "A"
+}
